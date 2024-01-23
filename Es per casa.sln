@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Es Radio", "Es per casa\Es Radio.csproj", "{F939FFA3-33F1-4BC4-BBC2-3717244DCC70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F939FFA3-33F1-4BC4-BBC2-3717244DCC70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F939FFA3-33F1-4BC4-BBC2-3717244DCC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F939FFA3-33F1-4BC4-BBC2-3717244DCC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F939FFA3-33F1-4BC4-BBC2-3717244DCC70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE9CAA5A-8D74-4542-85BB-2BBBEF0F0857}
+	EndGlobalSection
+EndGlobal
